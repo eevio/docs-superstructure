@@ -1,6 +1,6 @@
 ### Function
 
-TODO
+Represents a unit of behaviour that is invoked in order to respond to an originating event. The side effect of an invoked function may include the realization of further events, ultimately leading to a cascade of behaviour in the local domain and possibly external to it.
 
 #### Attributes
 
@@ -24,8 +24,10 @@ Functions can only influence other units of behaviour by raising further events.
 
 #### Semantics
 
-TODO
+There are no specific semantics associated with the conceptual view of a function. It is a placeholder for further refinement in the logical view.
 
 #### Notation
 
-TODO
+A function is drawn within the boundary of its containing `Domain` as a rectangular box displaying the `TraceableLanguageUnit::name` property.
+
+![Function](../../images/notation-function.png)

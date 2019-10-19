@@ -1,6 +1,6 @@
 ### Event
 
-TODO
+A message that captures the data regarding the change of state within a domain. The originator of the event only knows about the occurrence of the event, and by implication, knows nothing about the causal effect that the event may have.
 
 #### Attributes
 
@@ -26,8 +26,10 @@ While it is obvious that we want causal connections between events in an event d
 
 #### Semantics
 
-TODO
+There are no specific semantics associated with the conceptual view of an event. It is a placeholder for further refinement in the logical view.
 
 #### Notation
 
-TODO
+An event is drawn within the boundary of its containing `Domain` as a rectangular box displaying the `TraceableLanguageUnit::name` property.
+
+![Event](../../images/notation-event.png)

@@ -1,7 +1,7 @@
 # [Introduction](introduction.md)
 # [Views](views/index.md)
 ## [The Conceptual View](views/conceptual/index.md)
-### [Class Descriptions]
+### Class Descriptions
 #### [Domain](views/conceptual/domain.md)
 #### [LocalDomain](views/conceptual/local-domain.md)
 #### [ExternalDomain](views/conceptual/external-domain.md)
