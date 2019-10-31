@@ -34,4 +34,3 @@ The notation for `Event` and `Function` are defined seperately, however, a domai
 The originations and realizations associations are used to layout the domain units within their domain in the order that they are encountered. For domain units having multiple realizations (`self.realizations->size > 1`), those realized domain units will be stacked vertically in no particualr order. Finally, thin connecting lines between the originating and realized domain units are used to represent the association.
 
 ![Domain Unit Associations](../../images/notation-domain-unit-ordering.png)
-
